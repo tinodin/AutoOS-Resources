@@ -2,7 +2,6 @@
 
 > [!NOTE]  
 > This guide does **NOT** require a USB drive.<br/>
-> Installing AutoOS using a USB drive is technically possible using Ventoy with the unattend.xml file, but you need to set up a Ventoy config file.<br/>
 
 ### Step 1: Join Discord Server
 Join my [Discord Server](https://discord.gg/bZU4dMMWpg) to receive **installation support** and stay informed about **future updates or changes**.
@@ -21,6 +20,7 @@ If you have one of the following, download them.<br/>
 
 **MediaTek:** [Wi-Fi](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/WiFi.zip) · [Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/Bluetooth.zip)
 
+**Killer:** [Ethernet, Wi-Fi and Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/Killer/Killer.zip)
 ---
 
 <details>
@@ -81,7 +81,8 @@ Then select the **ISO** file you downloaded in Step 2 and your **drivers folder*
 If you get any errors during the script, please leave a message on my [Discord Server](https://discord.gg/bZU4dMMWpg).
 
 ### Step 5: Restarting into AutoOS
-Once the script has successfully finished, restart your PC and boot into `AutoOS` by pressing `Enter` after every following restart.<br/>
+Once the script has successfully finished, restart your PC.<br/>
+Boot into `AutoOS` by pressing `Enter` after every restart.<br/>
 
 > [!WARNING]
 > Make sure to `keep your ethernet cable connected` or `connect to your WiFi in the setup`.<br/>
