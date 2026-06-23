@@ -7,7 +7,8 @@
 - Run any other `tweaks` or `optimizers` for obvious reasons.
 - Use `timer resolution` or `memory cleaners` because they do more harm than good.
 - Use `external frame rate limiters` like `NVCP` or `RTSS` because they trade `better 1% lows` for `added latency` (unless non-competitive).
-- Set `visual effects` to `Best Performance`, `disable animations / transparency / paging file`.
+- Set `visual effects` to `Best Performance`.
+- Disable `animations`, `transparency` or `paging file`.
 - `Uninstall` `MSI Afterburner, OBS, Everything, Windhawk, StartAllBack` or any of the `runtimes`.
 - `Install` `7-Zip` or `WinRAR` because `NanaZip` is already installed.
 - `Uninstall` more AppX Packages like `Xbox Game Bar` or `Microsoft Edge` because it **breaks functionality**.
@@ -35,13 +36,13 @@
 **Step 2:**
 - Install `Minitool Partition Wizard` from the `Applications` tab.
 - Right click on the `old Windows partition` and select `Delete`.
-- Right click on the `AutoOS partition` and select `Extend`, select the `old Windows partition` and `max out the slider`. 
+- Right click on the `AutoOS partition` and select `Extend`, select the `old Windows partition` and `max out the slider`.
 - Click `Apply` and then `Restart Now`.
 
   ---
 
   <details>
-  <summary>If you are on ASUS Motherboard and get <b>GPT header corruption has been detected</b> message, click to expand</summary>
+  <summary>If you are on an <b>ASUS Motherboard</b> and get <b>GPT header corruption has been detected</b> message, click to expand</summary>
   <br/>
 
   - Press `F1` to get into `BIOS`.
@@ -55,7 +56,7 @@
   ---
 
   <details>
-  <summary>If the <b>old windows entry</b> is still <b>showing up</b> on boot, click to expand</summary>
+  <summary>If the <b>old Windows entry</b> is still <b>showing up</b> on boot, click to expand</summary>
   <br/>
 
   - Open Command Prompt and paste:
@@ -106,7 +107,7 @@ Select your Graphics Card preferences:
 ![Graphics Cards2](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Graphics%20Cards2.png)
 
 ### Per-CPU Scheduling
-Manually adjust or automatically optimize Audio, GPU, XHCI and NIC Affinities.
+Manually adjust or automatically optimize Audio, GPU, XHCI and NIC Affinities:
 - Click `Optimize Affinities` to reapply Affinities to all devices after `manual driver reinstalls` or after toggling `Hyper-Threading` / `SMT`.
 
 ![Per-CPU Scheduling](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Per-CPU%20Scheduling.png)
@@ -125,9 +126,11 @@ Manually adjust or automatically optimize advanced network adapter settings:
 ![Network & Internet](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Network%20&%20Internet.png)
 
 ### Energy & Power
-Adjust, Edit, Delete, Restore, Export, Import Power plans and compare them:
-- Keep using the AutoOS Power Plan
+Adjust, Edit, Duplicate, Delete, Restore, Export, Import Power plans and compare them:
+- Keep using the AutoOS Power Plan.
 - If you have issues with the AutoOS Power Plan, leave a message on the [Discord Server](https://discord.gg/bZU4dMMWpg).
+- Select another power plan in the 2nd combobox to `compare` it to the active power plan.
+- Right click on the active power plan combobox to `Edit, Duplicate, Delete or Export` it.
 
 ![Energy & Power](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Energy%20&%20Power.png)
 ![Energy & Power2](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Energy%20&%20Power2.png)
@@ -212,7 +215,7 @@ View your Game Library (Supports Epic Games, Riot Games, EA, Ubisoft Connect, St
   - Once you are in the `Game`, press the `Stop Processes` button.
   - Use `Alt+Tab` to switch between apps in this state.
   - Press the `Restart Processes` button to restore the taskbar etc.
-  
+
   **Adding Games:**
   - For `Riot Games` titles to show up in the `Games` tab, install them through the `Epic Games Launcher` as well.
   - For `EA` or `Ubisoft Connect` titles to show up in the `Games` tab, add them to your `Epic Games Launcher` library.

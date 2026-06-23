@@ -12,7 +12,7 @@ Quick access for links:
 ### Personalization
 Choose your Theme and Taskbar preferences:
 - Change Mode to `Always Light` or `Always Dark` if you prefer it, otherwise the theme will automatically change throughout the day.
-- Alternatively you can input a custom schedule.
+- Change Mode to `Custom` to input a custom schedule.
 - Disable `Always show all tray icons in the notification area` if you prefer a cleaner taskbar.
 
 ![Personalization](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Installer/Personalization.png)
