@@ -20,7 +20,7 @@ If you have one of the following, download them.<br/>
 
 **MediaTek:** [Wi-Fi](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/WiFi.zip) · [Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/Bluetooth.zip)
 
-**Killer:** [Ethernet, Wi-Fi and Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/Killer/Killer.zip)
+**Killer:** [Ethernet, Wi-Fi and Bluetooth](https://github.com/tinodin/AutoOS-Resources/releases/download/v1.0.0.0/Killer.zip)
 ---
 
 <details>
