@@ -91,7 +91,16 @@ Adjust Volume, Format and Buffer Size of your current input and output device:
 
 ### Displays
 Manually adjust or import a Custom Resolution Utility (CRU) profile:
-- CRU Guide coming soon...
+
+  **NVIDIA:**
+  - Open NVIDIA Control Panel, go to `Display` -> `Change resolution` and select your desired `monitor`.
+  - Make sure your desired resolution and refresh rate is active.
+  - Click on `Customize...` -> `Create Custom Resolution`, and click `Accept` on the disclaimer.
+  - Change the `Timing` -> `Standard` to `Manual`.
+  - Increase the **Vertical** `Total pixels` (not Horizontal) in steps of 20 and click `Test` and `No` after every time.
+  - Once you no longer get a display signal, press enter and do smaller steps until you have found the maximum vertical total pixels possible.
+  .
+
 
 ![Displays](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/AutoOS%20Settings/Displays.png)
 

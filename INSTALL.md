@@ -2,6 +2,7 @@
 
 > [!NOTE]  
 > This guide does **NOT** require a USB drive.<br/>
+> AutoOS will automatically be installed as a dual boot, meaning your old data and Windows installation stays accessible.
 
 ### Step 1: Join Discord Server
 Join my [Discord Server](https://discord.gg/bZU4dMMWpg) to receive **installation support** and stay informed about **future updates or changes**.
@@ -20,7 +21,12 @@ If you have one of the following, download them.<br/>
 
 **MediaTek:** [Wi-Fi](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/WiFi.zip) · [Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/MediaTek/Bluetooth.zip)
 
+**Qualcomm:** [Wi-Fi](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/Qualcomm/WiFi.zip) · [Bluetooth](https://raw.githubusercontent.com/tinodin/AutoOS-Resources/main/Files/Qualcomm/Bluetooth.zip)
+
 **Killer:** [Ethernet, Wi-Fi and Bluetooth](https://github.com/tinodin/AutoOS-Resources/releases/download/v1.0.0.0/Killer.zip)
+
+**Marvell:** [Ethernet](https://www.marvell.com/content/dam/marvell/en/drivers/Marvell_AQtion_Win_v3.1.11_10-17-2025.zip)
+
 ---
 
 <details>
