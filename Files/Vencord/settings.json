@@ -461,7 +461,7 @@
             "enabled": false
         },
         "ShowTimeoutDuration": {
-            "enabled": false
+            "enabled": true
         },
         "SilentMessageToggle": {
             "enabled": false
